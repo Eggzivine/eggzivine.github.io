@@ -1,0 +1,27 @@
+
+1. **Open Source Software**
+   - **Reverse Engineering**: Analyzing open-source software to understand its logic or locate vulnerabilities.
+   - **Finding Flag in Files**: Involves searching through codebases or open-source repositories to identify hidden information.
+
+2. **Web Hacking**
+   - **Exploiting a Web Page**: Finding vulnerabilities in web applications (e.g., XSS, SQL Injection).
+   - **Exploiting a Server**: Targeting the server-side of web applications, such as exploiting server misconfigurations.
+
+3. **System Hacking (aka Pwnable)**
+   - **Exploiting a Server**: Gaining control or executing arbitrary code by exploiting system-level vulnerabilities.
+   - **Reverse Engineering**: Understanding binary files, assembly code, or machine-level instructions.
+   - **Finding Flag in Files**: Analyzing system files or memory dumps to locate flags.
+   
+4. **Cryptography**
+   - **Involves Decrypting or Encrypting Data**: Working with ciphers, encrypted messages, or cryptographic algorithms.
+   
+5. **Steganography**
+   - **Finding Flag in Files or Image**: Searching for hidden data within image or audio files using steganographic techniques.
+
+### Difficulty Order (1 = Hardest, 5 = Easiest)
+
+1. **System Hacking (aka Pwnable)**: Exploiting binaries, reverse engineering, and working with low-level details.
+2. **Cryptography**: Requires mathematical knowledge and understanding of cryptographic algorithms.
+3. **Web Hacking**: Understanding how web applications work and how to exploit them.
+4. **Reverse Engineering**: Involves disassembling code and understanding software logic.
+5. **Steganography**: Mostly involves hiding and revealing data, with tools available to simplify the process.
